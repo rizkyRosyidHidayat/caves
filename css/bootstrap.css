@@ -1063,6 +1063,11 @@ progress {
   --bs-gutter-x: 3rem;
 }
 
+.g-6,
+.gx-6 {
+  --bs-gutter-x: 6rem;
+}
+
 .g-5,
 .gy-5 {
   --bs-gutter-y: 3rem;

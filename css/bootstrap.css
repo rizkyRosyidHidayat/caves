@@ -46,8 +46,13 @@
 
 @font-face {
   font-family: 'heading';
-  src: url('../fonts/FormulaCondensed-Bold/FormulaCondensed-Light.otf') format('opentype'),
-        url('../fonts/FormulaCondensed-Bold/FormulaCondensed-Bold.otf') format('opentype');
+  src: url('../fonts/FormulaCondensed-Bold/FormulaCondensed-Light.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'heading';
+  src: url('../fonts/FormulaCondensed-Bold/FormulaCondensed-Bold.otf') format('opentype');
+  font-weight: bold;
 }
 
 @font-face {
